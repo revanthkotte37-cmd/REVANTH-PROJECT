@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f1",
+    "name": "Growth Equity Fund",
+    "category": "Equity",
+    "aum": "1.2B",
+    "structure": "Open-ended fund investing in large-cap equities, diversified across sectors.",
+    "risks": ["Market risk", "Concentration risk", "Liquidity risk"],
+    "factors": ["Risk tolerance", "Investment horizon", "Fees"],
+    "performance": {"1y":"12%","3y":"28%","5y":"65%"}
+  },
+  {
+    "id": "f2",
+    "name": "Income Bond Fund",
+    "category": "Fixed Income",
+    "aum": "800M",
+    "structure": "Open-ended fund focused on investment-grade corporate bonds and government securities.",
+    "risks": ["Interest rate risk", "Credit risk"],
+    "factors": ["Yield needs", "Interest rate outlook", "Duration"],
+    "performance": {"1y":"4%","3y":"13%","5y":"22%"}
+  },
+  {
+    "id": "f3",
+    "name": "Balanced Growth Fund",
+    "category": "Hybrid",
+    "aum": "450M",
+    "structure": "Balanced allocation between equities and fixed income, intended for moderate risk investors.",
+    "risks": ["Allocation risk", "Market risk"],
+    "factors": ["Target allocation", "Rebalancing", "Fees"],
+    "performance": {"1y":"7%","3y":"18%","5y":"38%"}
+  }
+]
